@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9afa73ce.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.74c829d5.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.74c829d5.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.ce25c441.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.ce25c441.js.map",
+    "static/js/2.d8b38736.chunk.js": "/react-gh-pages/static/js/2.d8b38736.chunk.js",
+    "static/js/2.d8b38736.chunk.js.map": "/react-gh-pages/static/js/2.d8b38736.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.2a4f1d85d92e1f69886c91b45a66454c.js": "/react-gh-pages/precache-manifest.2a4f1d85d92e1f69886c91b45a66454c.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.9afa73ce.chunk.css.map": "/react-gh-pages/static/css/main.9afa73ce.chunk.css.map",
+    "static/js/2.d8b38736.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.d8b38736.chunk.js.LICENSE.txt",
+    "static/media/flag-south-africa-with-brush-stroke_74563-464.webp": "/react-gh-pages/static/media/flag-south-africa-with-brush-stroke_74563-464.542079fc.webp",
+    "static/media/HeroSection.css": "/react-gh-pages/static/media/growth-business-district-night_53876-163074.66630085.webp",
+    "static/media/App.css": "/react-gh-pages/static/media/img-8.d211c298.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce25c441.js",
+    "static/js/2.d8b38736.chunk.js",
+    "static/css/main.9afa73ce.chunk.css",
+    "static/js/main.74c829d5.chunk.js"
+  ]
+}
