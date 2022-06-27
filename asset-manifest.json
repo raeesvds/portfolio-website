@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.9afa73ce.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.74c829d5.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.74c829d5.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.ce25c441.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.ce25c441.js.map",
-    "static/js/2.d8b38736.chunk.js": "/react-gh-pages/static/js/2.d8b38736.chunk.js",
-    "static/js/2.d8b38736.chunk.js.map": "/react-gh-pages/static/js/2.d8b38736.chunk.js.map",
-    "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.2a4f1d85d92e1f69886c91b45a66454c.js": "/react-gh-pages/precache-manifest.2a4f1d85d92e1f69886c91b45a66454c.js",
-    "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.9afa73ce.chunk.css.map": "/react-gh-pages/static/css/main.9afa73ce.chunk.css.map",
-    "static/js/2.d8b38736.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.d8b38736.chunk.js.LICENSE.txt",
-    "static/media/flag-south-africa-with-brush-stroke_74563-464.webp": "/react-gh-pages/static/media/flag-south-africa-with-brush-stroke_74563-464.542079fc.webp",
-    "static/media/HeroSection.css": "/react-gh-pages/static/media/growth-business-district-night_53876-163074.66630085.webp",
-    "static/media/App.css": "/react-gh-pages/static/media/img-8.d211c298.jpg"
+    "main.css": "/static/css/main.578313ea.chunk.css",
+    "main.js": "/static/js/main.c15e14ea.chunk.js",
+    "main.js.map": "/static/js/main.c15e14ea.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
+    "static/js/2.68ce2352.chunk.js": "/static/js/2.68ce2352.chunk.js",
+    "static/js/2.68ce2352.chunk.js.map": "/static/js/2.68ce2352.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.342fef94b9855e16f7a9221d867fdeb2.js": "/precache-manifest.342fef94b9855e16f7a9221d867fdeb2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.578313ea.chunk.css.map": "/static/css/main.578313ea.chunk.css.map",
+    "static/js/2.68ce2352.chunk.js.LICENSE.txt": "/static/js/2.68ce2352.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/static/media/CV.d0ef23b4.pdf",
+    "static/media/Rugby-results-docs.pdf": "/static/media/Rugby-results-docs.edbb2399.pdf",
+    "static/media/App.css": "/static/media/img-8.d211c298.jpg",
+    "static/media/HeroSection.css": "/static/media/programming-concept_82472-703.78beb134.webp",
+    "static/media/rugby-thumbnail.JPG": "/static/media/rugby-thumbnail.a69e3c60.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.ce25c441.js",
-    "static/js/2.d8b38736.chunk.js",
-    "static/css/main.9afa73ce.chunk.css",
-    "static/js/main.74c829d5.chunk.js"
+    "static/js/runtime-main.4ba1596e.js",
+    "static/js/2.68ce2352.chunk.js",
+    "static/css/main.578313ea.chunk.css",
+    "static/js/main.c15e14ea.chunk.js"
   ]
 }
