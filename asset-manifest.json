@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.47cf1abd.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.c15e14ea.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.c15e14ea.chunk.js.map",
-    "runtime-main.js": "/portfolio-website/static/js/runtime-main.40b227eb.js",
-    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.40b227eb.js.map",
-    "static/js/2.ac2cdeff.chunk.js": "/portfolio-website/static/js/2.ac2cdeff.chunk.js",
-    "static/js/2.ac2cdeff.chunk.js.map": "/portfolio-website/static/js/2.ac2cdeff.chunk.js.map",
-    "index.html": "/portfolio-website/index.html",
-    "precache-manifest.c926d57630aded06778d381338e09db0.js": "/portfolio-website/precache-manifest.c926d57630aded06778d381338e09db0.js",
-    "service-worker.js": "/portfolio-website/service-worker.js",
-    "static/css/main.47cf1abd.chunk.css.map": "/portfolio-website/static/css/main.47cf1abd.chunk.css.map",
-    "static/js/2.ac2cdeff.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.ac2cdeff.chunk.js.LICENSE.txt",
-    "static/media/CV.pdf": "/portfolio-website/static/media/CV.d0ef23b4.pdf",
-    "static/media/Rugby-results-docs.pdf": "/portfolio-website/static/media/Rugby-results-docs.edbb2399.pdf",
-    "static/media/App.css": "/portfolio-website/static/media/img-8.d211c298.jpg",
-    "static/media/HeroSection.css": "/portfolio-website/static/media/programming-concept_82472-703.78beb134.webp",
-    "static/media/rugby-thumbnail.JPG": "/portfolio-website/static/media/rugby-thumbnail.a69e3c60.JPG"
+    "main.css": "/static/css/main.a7e91e5d.chunk.css",
+    "main.js": "/static/js/main.0c1b1bbd.chunk.js",
+    "main.js.map": "/static/js/main.0c1b1bbd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
+    "static/js/2.bf45a38a.chunk.js": "/static/js/2.bf45a38a.chunk.js",
+    "static/js/2.bf45a38a.chunk.js.map": "/static/js/2.bf45a38a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bf7c6ea36958c24854c20511e52fc133.js": "/precache-manifest.bf7c6ea36958c24854c20511e52fc133.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a7e91e5d.chunk.css.map": "/static/css/main.a7e91e5d.chunk.css.map",
+    "static/js/2.bf45a38a.chunk.js.LICENSE.txt": "/static/js/2.bf45a38a.chunk.js.LICENSE.txt",
+    "static/media/CV.pdf": "/static/media/CV.afb3d2fa.pdf",
+    "static/media/Rugby-results-docs.pdf": "/static/media/Rugby-results-docs.edbb2399.pdf",
+    "static/media/HeroSection.css": "/static/media/programming-concept_82472-703.78beb134.webp",
+    "static/media/rugby-thumbnail.JPG": "/static/media/rugby-thumbnail.a69e3c60.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.40b227eb.js",
-    "static/js/2.ac2cdeff.chunk.js",
-    "static/css/main.47cf1abd.chunk.css",
-    "static/js/main.c15e14ea.chunk.js"
+    "static/js/runtime-main.4ba1596e.js",
+    "static/js/2.bf45a38a.chunk.js",
+    "static/css/main.a7e91e5d.chunk.css",
+    "static/js/main.0c1b1bbd.chunk.js"
   ]
 }
