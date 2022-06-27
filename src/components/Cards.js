@@ -1,6 +1,9 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
+import RugbyPDF from '../Rugby-results-docs.pdf'
+
+
 
 function Cards() {
   return (
@@ -10,12 +13,20 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              img src={require('../images/flag-south-africa-with-brush-stroke_74563-464.webp')}
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
-              label='Adventure'
-              path='/services'
-            />
-            <CardItem
+              img src={require('../images/rugby-thumbnail.JPG')}
+              text='Webscraping Rugby Results'
+              label='Go Stormers'
+              docs={RugbyPDF}
+              git = "https://www.github.com/raeesvds/portfolio-website"
+              />
+  
+          
+            {/* path='/services'
+            AllPagesPDFViewer pdf={RugbyPDF}  */}
+
+
+
+            {/* <CardItem
               src='images/img-2.jpg'
               text='Travel through the Islands of Bali in a Private Cruise'
               label='Luxury'
@@ -39,8 +50,8 @@ function Cards() {
               src='images/img-8.jpg'
               text='Ride through the Sahara Desert on a guided camel tour'
               label='Adrenaline'
-              path='/sign-up'
-            />
+              path='/sign-up' */
+            /* /> */}
           </ul>
         </div>
       </div>

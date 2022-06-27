@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    margin: 30px 0 20px 0 !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+  'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    background-color: #0a7486;
+    padding: 1rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-control {
+    padding: 2px 120px;
+    border-radius: 10px;
+    margin-right: 10px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(14, 13, 13);
+}
+
+.form-message {
+    padding: 8px 124px;
+    border-radius: 15px;
+    margin-right: 20px;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 16px;
+    border: 1px solid rgb(12, 11, 11);
+}
