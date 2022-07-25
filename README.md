@@ -1,1 +1,3 @@
-Portfolio website created using React, deployed with Github pages.
+#Portfolio Website 
+
+Created using React, HTML, CSS, JavaScript.
