@@ -1,3 +1,3 @@
 # Portfolio Website 
 
-Created using React, HTML, CSS, JavaScript.
+Created using React, JavaScript, CSS, HTML.
