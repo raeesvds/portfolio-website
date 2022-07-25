@@ -9,24 +9,25 @@ h1 {
     background-color: #0a7486;
     padding: 1rem 0 2rem 0;
     display: flex;
-    flex-direction: column;
+    flex-direction : column;
     justify-content: center;
     align-items: center;
 }
 
 .form-control {
-    padding: 2px 120px;
+    padding: 2px 80px;
     border-radius: 10px;
-    margin-right: 10px;
+    margin-right: 5px;
     outline: none;
     border: none;
     font-size: 20px;
     margin-bottom: 16px;
     border: 1px solid rgb(14, 13, 13);
+    text-align: center;
 }
 
 .form-message {
-    padding: 8px 124px;
+    padding: 8px 82px;
     border-radius: 15px;
     margin-right: 20px;
     outline: none;
@@ -34,4 +35,6 @@ h1 {
     font-size: 20px;
     margin-bottom: 16px;
     border: 1px solid rgb(12, 11, 11);
+    text-align: center;
 }
+

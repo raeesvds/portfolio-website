@@ -28,8 +28,11 @@ function Navbar() {
     <>
       <nav className='navbar'>
         <div className='navbar-container'>
+        <i class = 'fal fa-file'></i>
           <Link to='/' className='navbar-logo' onClick={closeMobileMenu}>
-          Ra'ees van der Schyff
+          @raeesvds<br/>
+          
+          
           </Link>
           <div className='menu-icon' onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />

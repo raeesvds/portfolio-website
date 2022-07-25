@@ -35,7 +35,7 @@ return (
         rows="6" required>
         </textarea>
     </div>
-    <Button type="submit" class="btn btn-lg btn-dark btn-block">Submit Form</Button>
+    <Button class="btn--primary">Submit Form</Button>
     </form>
 </div>
 );
