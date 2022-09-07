@@ -15,7 +15,8 @@ h1 {
 }
 
 .form-control {
-    padding: 2px 80px;
+    position: relative;
+    padding: 2px 50px;
     border-radius: 10px;
     margin-right: 5px;
     outline: none;
@@ -24,10 +25,17 @@ h1 {
     margin-bottom: 16px;
     border: 1px solid rgb(14, 13, 13);
     text-align: center;
+
+}
+@media screen and (max-width: 960px) {
+    .form-control {
+    position: relative;
+    padding: relative;
+    }
 }
 
 .form-message {
-    padding: 8px 82px;
+    padding: 8px 54px;
     border-radius: 15px;
     margin-right: 20px;
     outline: none;
@@ -37,4 +45,15 @@ h1 {
     border: 1px solid rgb(12, 11, 11);
     text-align: center;
 }
+@media screen and (max-width: 960px) {
+    .form-message {
+    position: relative;
+    padding: relative;
+    }
+}
 
+@media screen and (max-width: 960px) {
+    .FormItems {
+    position: relative;
+    }
+}

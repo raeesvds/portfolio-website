@@ -1,6 +1,7 @@
 import React from 'react';
 
 function CardItem(props) {
+ 
   return (
     <>
       <li className='cards__item'>
@@ -14,7 +15,7 @@ function CardItem(props) {
           </figure>
           <div className='cards__item__info'>
             <h5 className='cards__item__text'>{props.text}</h5>
-            <a href={props.docs} target='_blank' rel="noopener noreferrer">
+          <a href={process.env.PUBLIC_URL + props.docs}   target="_blank" rel="noopener noreferrer">
           View Docs
           </a>
           <br></br>
@@ -25,7 +26,9 @@ function CardItem(props) {
         </div>
       </li>
     </>
+    
   );
 }
+
 
 export default CardItem;

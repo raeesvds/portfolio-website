@@ -1,8 +1,7 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
-import RugbyPDF from './assets/Rugby-results-docs.pdf'
-import SummariesPDF from './assets/book-summaries-docs.pdf'
+import CardItemDemo from './CardItemDemo'
 
 
 
@@ -16,16 +15,22 @@ function Cards() {
             <CardItem
               img src={require('../images/rugby-thumbnail.JPG')}
               text='Webscraping Rugby Results'
-              label='Go Stormers'
-              docs={RugbyPDF}
+              label='Python'
+              docs= '/assets/Rugby-results-docs.pdf'
               git = "https://www.github.com/raeesvds/webscraping-rugby-results"
               />
               <CardItem
               img src={require('../images/book-summary-thumbnail.JPG')}
               text='Generating Book Summaries'
               label='Google Apps Script'
-              docs={SummariesPDF}
+              docs= '/assets/book-summaries-docs.pdf'
               git = "https://www.github.com/raeesvds/apps-script-book-summary-generator"
+              />
+              <CardItemDemo
+              img src={require('../images/ring-sizer.JPG')}
+              text='Ring Sizer'
+              label='JavaScript'
+              git = "https://www.github.com/raeesvds/ring-sizer"
               />
           </ul>
         </div>

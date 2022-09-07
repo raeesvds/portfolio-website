@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.a7e91e5d.chunk.css",
-    "main.js": "/static/js/main.0c1b1bbd.chunk.js",
-    "main.js.map": "/static/js/main.0c1b1bbd.chunk.js.map",
+    "main.css": "/static/css/main.f4e80cd2.chunk.css",
+    "main.js": "/static/js/main.e3d74f26.chunk.js",
+    "main.js.map": "/static/js/main.e3d74f26.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ba1596e.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ba1596e.js.map",
-    "static/js/2.bf45a38a.chunk.js": "/static/js/2.bf45a38a.chunk.js",
-    "static/js/2.bf45a38a.chunk.js.map": "/static/js/2.bf45a38a.chunk.js.map",
+    "static/js/2.0fea9972.chunk.js": "/static/js/2.0fea9972.chunk.js",
+    "static/js/2.0fea9972.chunk.js.map": "/static/js/2.0fea9972.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bf7c6ea36958c24854c20511e52fc133.js": "/precache-manifest.bf7c6ea36958c24854c20511e52fc133.js",
+    "precache-manifest.8f98b5beccaf566b29430fb75c0803bd.js": "/precache-manifest.8f98b5beccaf566b29430fb75c0803bd.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a7e91e5d.chunk.css.map": "/static/css/main.a7e91e5d.chunk.css.map",
-    "static/js/2.bf45a38a.chunk.js.LICENSE.txt": "/static/js/2.bf45a38a.chunk.js.LICENSE.txt",
-    "static/media/CV.pdf": "/static/media/CV.afb3d2fa.pdf",
+    "static/css/main.f4e80cd2.chunk.css.map": "/static/css/main.f4e80cd2.chunk.css.map",
+    "static/js/2.0fea9972.chunk.js.LICENSE.txt": "/static/js/2.0fea9972.chunk.js.LICENSE.txt",
     "static/media/Rugby-results-docs.pdf": "/static/media/Rugby-results-docs.edbb2399.pdf",
+    "static/media/book-summaries-docs.pdf": "/static/media/book-summaries-docs.59af77f5.pdf",
+    "static/media/book-summary-thumbnail.JPG": "/static/media/book-summary-thumbnail.8ae7af5b.JPG",
     "static/media/HeroSection.css": "/static/media/programming-concept_82472-703.78beb134.webp",
+    "static/media/ring-sizer.JPG": "/static/media/ring-sizer.549ce4af.JPG",
     "static/media/rugby-thumbnail.JPG": "/static/media/rugby-thumbnail.a69e3c60.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.4ba1596e.js",
-    "static/js/2.bf45a38a.chunk.js",
-    "static/css/main.a7e91e5d.chunk.css",
-    "static/js/main.0c1b1bbd.chunk.js"
+    "static/js/2.0fea9972.chunk.js",
+    "static/css/main.f4e80cd2.chunk.css",
+    "static/js/main.e3d74f26.chunk.js"
   ]
 }

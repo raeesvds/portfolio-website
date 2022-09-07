@@ -35,7 +35,12 @@ return (
         rows="6" required>
         </textarea>
     </div>
-    <Button class="btn--primary">Submit Form</Button>
+    <Button 
+    className='btns'
+    buttonStyle='btn--test'
+    buttonSize='btn--large'>
+        Submit Form
+    </Button>
     </form>
 </div>
 );
