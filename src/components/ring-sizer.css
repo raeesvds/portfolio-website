@@ -85,7 +85,7 @@ cursor: pointer;
 
     }
     .slider{
-        width: 50%;
+        width: fit-content;
 
     }
     
