@@ -30,7 +30,7 @@ function Footer() {
             </Link>
             <Link
               class='social-icon-link'
-              onClick={() => window.open("https://www.linkedin.com/in/ra-ees-van-der-schyff-8b45a4217/?originalSubdomain=za")}
+              onClick={() => window.open("https://www.linkedin.com/in/m-ra-ees-van-der-schyff-8b45a4217/")}
               target='_blank'
               aria-label='LinkedIn'
             >
